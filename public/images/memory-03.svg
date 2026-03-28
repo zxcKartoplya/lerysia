@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Фото 3</title>
+  <desc id="desc">Плейсхолдер для третьей фотографии из галереи.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f4e6da"/>
+      <stop offset="100%" stop-color="#dcb7a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" rx="48" fill="url(#bg3)"/>
+  <path d="M0 192C164 284 294 314 452 270C587 232 698 177 900 226V0H0Z" fill="#fff9f3" fill-opacity=".34"/>
+  <path d="M0 931C194 853 357 839 503 894C646 946 751 979 900 937V1125H0Z" fill="#ffffff" fill-opacity=".26"/>
+  <text x="450" y="505" text-anchor="middle" font-size="54" font-family="Georgia, serif" fill="#74493f">Фото 3</text>
+  <text x="450" y="571" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#845b52">Подпиши момент коротко и лично</text>
+</svg>

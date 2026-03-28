@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Фото 4</title>
+  <desc id="desc">Плейсхолдер для четвертой фотографии из галереи.</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#efcdc1"/>
+      <stop offset="100%" stop-color="#e9ded1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" rx="48" fill="url(#bg4)"/>
+  <circle cx="192" cy="268" r="116" fill="#fffaf6" fill-opacity=".3"/>
+  <circle cx="730" cy="850" r="180" fill="#cb8979" fill-opacity=".16"/>
+  <rect x="132" y="206" width="636" height="712" rx="34" fill="#fff7f1" fill-opacity=".34"/>
+  <text x="450" y="500" text-anchor="middle" font-size="54" font-family="Georgia, serif" fill="#764c43">Фото 4</text>
+  <text x="450" y="566" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#855e55">Еще один ваш кадр для галереи</text>
+</svg>

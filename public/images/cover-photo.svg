@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Главное фото</title>
+  <desc id="desc">Плейсхолдер для главного изображения открытки.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6d9d3"/>
+      <stop offset="50%" stop-color="#f0e5d8"/>
+      <stop offset="100%" stop-color="#d8b4a5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" rx="48" fill="url(#bg)"/>
+  <circle cx="170" cy="180" r="120" fill="#ffffff" fill-opacity=".32"/>
+  <circle cx="720" cy="280" r="160" fill="#fff6f0" fill-opacity=".26"/>
+  <circle cx="450" cy="830" r="220" fill="#c8776b" fill-opacity=".18"/>
+  <rect x="118" y="178" width="664" height="769" rx="42" fill="#fffaf6" fill-opacity=".54" stroke="#ffffff" stroke-opacity=".45"/>
+  <text x="450" y="470" text-anchor="middle" font-size="58" font-family="Georgia, serif" fill="#74483f">Ваше главное фото</text>
+  <text x="450" y="542" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#8c655b">Замени путь в hero.imageSrc</text>
+  <text x="450" y="588" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#8c655b">и подставь сюда ваш любимый кадр</text>
+</svg>

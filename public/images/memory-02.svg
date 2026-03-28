@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Фото 2</title>
+  <desc id="desc">Плейсхолдер для второй фотографии из галереи.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#efd9cb"/>
+      <stop offset="100%" stop-color="#e2c4b5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" rx="48" fill="url(#bg2)"/>
+  <rect x="96" y="124" width="708" height="877" rx="46" fill="#fff7f1" fill-opacity=".38"/>
+  <circle cx="658" cy="272" r="126" fill="#ffffff" fill-opacity=".32"/>
+  <circle cx="260" cy="786" r="188" fill="#c98573" fill-opacity=".16"/>
+  <text x="450" y="500" text-anchor="middle" font-size="54" font-family="Georgia, serif" fill="#785047">Фото 2</text>
+  <text x="450" y="566" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#885f55">Замени на ваш кадр</text>
+</svg>

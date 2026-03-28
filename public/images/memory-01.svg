@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Фото 1</title>
+  <desc id="desc">Плейсхолдер для фотографии из галереи.</desc>
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7cfc7"/>
+      <stop offset="100%" stop-color="#efdccf"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" rx="48" fill="url(#bg1)"/>
+  <path d="M0 820C171 746 282 731 420 781C566 834 658 847 900 730V1125H0Z" fill="#ffffff" fill-opacity=".28"/>
+  <circle cx="230" cy="260" r="150" fill="#fff8f2" fill-opacity=".34"/>
+  <text x="450" y="500" text-anchor="middle" font-size="54" font-family="Georgia, serif" fill="#7d4f45">Фото 1</text>
+  <text x="450" y="566" text-anchor="middle" font-size="28" font-family="Arial, sans-serif" fill="#8a6358">/images/memory-01.svg</text>
+</svg>
