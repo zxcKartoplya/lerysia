@@ -34,7 +34,6 @@ export default defineAppConfig({
 		},
 
 		galleryTitle: 'Наши моменты',
-		galleryText: 'Замени фотографии и подписи здесь на ваши любимые кадры.',
 		gallery: [
 			{
 				src: '/images/memory-01.jpg',
