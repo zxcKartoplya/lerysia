@@ -15,7 +15,6 @@ export default defineAppConfig({
 			imageAlt: 'Главное фото для открытки',
 			primaryActionLabel: 'Открыть письмо',
 			primaryActionHref: '#letter',
-			secondaryActionLabel: 'Наша песня',
 			// Замени на ссылку на ваш трек, плейлист или голосовое сообщение.
 			// Если позже захочешь скрыть кнопку, просто поставь пустую строку.
 			secondaryActionHref: 'https://example.com/your-song',

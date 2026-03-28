@@ -60,24 +60,6 @@ useHead(() => ({
 				>
 					{{ postcard.hero.primaryActionLabel }}
 				</a>
-
-				<a
-					v-if="hasSongLink"
-					class="button button-secondary"
-					:href="postcard.hero.secondaryActionHref"
-					:target="
-						isExternalLink(postcard.hero.secondaryActionHref)
-							? '_blank'
-							: undefined
-					"
-					:rel="
-						isExternalLink(postcard.hero.secondaryActionHref)
-							? 'noreferrer'
-							: undefined
-					"
-				>
-					{{ postcard.hero.secondaryActionLabel }}
-				</a>
 			</div>
 		</section>
 
@@ -119,24 +101,6 @@ useHead(() => ({
 					<p class="photo-caption">
 						{{ photo.caption }}
 					</p>
-				</article>
-			</div>
-		</section>
-
-		<section class="panel section-panel">
-			<div class="section-heading">
-				<p class="section-kicker">Слова</p>
-				<h2>{{ postcard.missYouTitle }}</h2>
-			</div>
-
-			<div class="memory-grid">
-				<article
-					v-for="item in postcard.missYou"
-					:key="item.title"
-					class="memory-card"
-				>
-					<h3>{{ item.title }}</h3>
-					<p>{{ item.text }}</p>
 				</article>
 			</div>
 		</section>
